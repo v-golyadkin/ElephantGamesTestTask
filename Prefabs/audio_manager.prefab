@@ -85,6 +85,9 @@ MonoBehaviour:
   - name: click_ui
     clip: {fileID: 8300000, guid: 5f94447fb14e67c44bd4e9190c01e18f, type: 3}
     volume: 0.7
+  - name: click_slime
+    clip: {fileID: 8300000, guid: 3b50dccc94cf6654e89c172d9409f61a, type: 3}
+    volume: 0.7
 --- !u!1 &712582550043934238
 GameObject:
   m_ObjectHideFlags: 0
