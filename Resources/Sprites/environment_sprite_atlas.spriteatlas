@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: environment_sprite_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 30d1f6f0a4f2c32419dc9f8646d626fd, type: 3}
+    - {fileID: 2800000, guid: fa8bc95a5005f804899201e67fa73f93, type: 3}
+    - {fileID: 2800000, guid: 263f99362d7e61a4bb7b7a6b006f6503, type: 3}
+    - {fileID: 2800000, guid: 02c3f4e34e9b67646b2e032df4f5fdaf, type: 3}
+    - {fileID: 2800000, guid: dbe57ed5d9742784b89d9ecc6e7c3c94, type: 3}
+    - {fileID: 2800000, guid: b038ce68ec011cc4381525386575c19e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 30d1f6f0a4f2c32419dc9f8646d626fd: 21300000
+    - 02c3f4e34e9b67646b2e032df4f5fdaf: 21300000
+    - dbe57ed5d9742784b89d9ecc6e7c3c94: 21300000
+    - 263f99362d7e61a4bb7b7a6b006f6503: 21300000
+    - b038ce68ec011cc4381525386575c19e: 21300000
+    - fa8bc95a5005f804899201e67fa73f93: -809634023
+    - fa8bc95a5005f804899201e67fa73f93: 1241775977
+    - fa8bc95a5005f804899201e67fa73f93: 71824679
+    - fa8bc95a5005f804899201e67fa73f93: -167128352
+    - fa8bc95a5005f804899201e67fa73f93: -1032439697
+    - fa8bc95a5005f804899201e67fa73f93: 1228068882
+    - fa8bc95a5005f804899201e67fa73f93: 663607515
+    - fa8bc95a5005f804899201e67fa73f93: 1662731623
+    - fa8bc95a5005f804899201e67fa73f93: 1240284325
+    - fa8bc95a5005f804899201e67fa73f93: -1765800643
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 30d1f6f0a4f2c32419dc9f8646d626fd, type: 3}
+  - {fileID: 21300000, guid: 02c3f4e34e9b67646b2e032df4f5fdaf, type: 3}
+  - {fileID: 21300000, guid: dbe57ed5d9742784b89d9ecc6e7c3c94, type: 3}
+  - {fileID: 21300000, guid: 263f99362d7e61a4bb7b7a6b006f6503, type: 3}
+  - {fileID: 21300000, guid: b038ce68ec011cc4381525386575c19e, type: 3}
+  - {fileID: -809634023, guid: fa8bc95a5005f804899201e67fa73f93, type: 3}
+  - {fileID: 1241775977, guid: fa8bc95a5005f804899201e67fa73f93, type: 3}
+  - {fileID: 71824679, guid: fa8bc95a5005f804899201e67fa73f93, type: 3}
+  - {fileID: -167128352, guid: fa8bc95a5005f804899201e67fa73f93, type: 3}
+  - {fileID: -1032439697, guid: fa8bc95a5005f804899201e67fa73f93, type: 3}
+  - {fileID: 1228068882, guid: fa8bc95a5005f804899201e67fa73f93, type: 3}
+  - {fileID: 663607515, guid: fa8bc95a5005f804899201e67fa73f93, type: 3}
+  - {fileID: 1662731623, guid: fa8bc95a5005f804899201e67fa73f93, type: 3}
+  - {fileID: 1240284325, guid: fa8bc95a5005f804899201e67fa73f93, type: 3}
+  - {fileID: -1765800643, guid: fa8bc95a5005f804899201e67fa73f93, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - cloud
+  - grass_1
+  - grass_2
+  - castle_grey
+  - tower_grey
+  - slime_blue_down
+  - slime_green_down
+  - slime_yellow_down
+  - slime_purple_up
+  - slime_red_down
+  - slime_blue_up
+  - slime_green_up
+  - slime_yellow_up
+  - slime_purple_down
+  - slime_red_up
+  m_RenderDataMap: {}
+  m_Tag: environment_sprite_atlas
+  m_IsVariant: 0
