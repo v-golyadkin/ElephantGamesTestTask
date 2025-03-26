@@ -8,6 +8,8 @@ public class LocaleSelector : MonoBehaviour
 
     public void ChangeLocale(int localeId)
     {
+        AudioManager.Instance.PlaySFX("click_ui");
+
         if(_active == true)
         {
             return;
