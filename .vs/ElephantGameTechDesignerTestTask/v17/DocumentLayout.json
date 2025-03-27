@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95694483-6A52-D92F-4B21-B7981747F46E}|Assembly-CSharp.csproj|f:\\unity\\projects\\elephantgametechdesignertesttask\\assets\\logic\\scripts\\localeselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95694483-6A52-D92F-4B21-B7981747F46E}|Assembly-CSharp.csproj|solutionrelative:assets\\logic\\scripts\\localeselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95694483-6A52-D92F-4B21-B7981747F46E}|Assembly-CSharp.csproj|F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\assets\\logic\\scripts\\returnbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95694483-6A52-D92F-4B21-B7981747F46E}|Assembly-CSharp.csproj|solutionrelative:assets\\logic\\scripts\\returnbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95694483-6A52-D92F-4B21-B7981747F46E}|Assembly-CSharp.csproj|F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\assets\\logic\\scripts\\greenslimeanimatorcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95694483-6A52-D92F-4B21-B7981747F46E}|Assembly-CSharp.csproj|solutionrelative:assets\\logic\\scripts\\greenslimeanimatorcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95694483-6A52-D92F-4B21-B7981747F46E}|Assembly-CSharp.csproj|F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\assets\\logic\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95694483-6A52-D92F-4B21-B7981747F46E}|Assembly-CSharp.csproj|solutionrelative:assets\\logic\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95694483-6A52-D92F-4B21-B7981747F46E}|Assembly-CSharp.csproj|F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\assets\\logic\\scripts\\soundlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95694483-6A52-D92F-4B21-B7981747F46E}|Assembly-CSharp.csproj|solutionrelative:assets\\logic\\scripts\\soundlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95694483-6A52-D92F-4B21-B7981747F46E}|Assembly-CSharp.csproj|F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\assets\\logic\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95694483-6A52-D92F-4B21-B7981747F46E}|Assembly-CSharp.csproj|solutionrelative:assets\\logic\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95694483-6A52-D92F-4B21-B7981747F46E}|Assembly-CSharp.csproj|F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\assets\\logic\\scripts\\musiclibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95694483-6A52-D92F-4B21-B7981747F46E}|Assembly-CSharp.csproj|solutionrelative:assets\\logic\\scripts\\musiclibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocaleSelector.cs",
+              "DocumentMoniker": "F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\Assets\\Logic\\Scripts\\LocaleSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Logic\\Scripts\\LocaleSelector.cs",
+              "ToolTip": "F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\Assets\\Logic\\Scripts\\LocaleSelector.cs",
+              "RelativeToolTip": "Assets\\Logic\\Scripts\\LocaleSelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:47:52.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GreenSlimeAnimatorContoller.cs",
+              "DocumentMoniker": "F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\Assets\\Logic\\Scripts\\GreenSlimeAnimatorContoller.cs",
+              "RelativeDocumentMoniker": "Assets\\Logic\\Scripts\\GreenSlimeAnimatorContoller.cs",
+              "ToolTip": "F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\Assets\\Logic\\Scripts\\GreenSlimeAnimatorContoller.cs",
+              "RelativeToolTip": "Assets\\Logic\\Scripts\\GreenSlimeAnimatorContoller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:53:17.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReturnButton.cs",
+              "DocumentMoniker": "F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\Assets\\Logic\\Scripts\\ReturnButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Logic\\Scripts\\ReturnButton.cs",
+              "ToolTip": "F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\Assets\\Logic\\Scripts\\ReturnButton.cs",
+              "RelativeToolTip": "Assets\\Logic\\Scripts\\ReturnButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T11:11:08.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SoundLibrary.cs",
+              "DocumentMoniker": "F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\Assets\\Logic\\Scripts\\SoundLibrary.cs",
+              "RelativeDocumentMoniker": "Assets\\Logic\\Scripts\\SoundLibrary.cs",
+              "ToolTip": "F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\Assets\\Logic\\Scripts\\SoundLibrary.cs",
+              "RelativeToolTip": "Assets\\Logic\\Scripts\\SoundLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:09:40.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MusicLibrary.cs",
+              "DocumentMoniker": "F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\Assets\\Logic\\Scripts\\MusicLibrary.cs",
+              "RelativeDocumentMoniker": "Assets\\Logic\\Scripts\\MusicLibrary.cs",
+              "ToolTip": "F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\Assets\\Logic\\Scripts\\MusicLibrary.cs",
+              "RelativeToolTip": "Assets\\Logic\\Scripts\\MusicLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:09:39.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\Assets\\Logic\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Logic\\Scripts\\AudioManager.cs",
+              "ToolTip": "F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\Assets\\Logic\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Logic\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:09:33.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\Assets\\Logic\\Scripts\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Logic\\Scripts\\MainMenuUI.cs",
+              "ToolTip": "F:\\Unity\\Projects\\ElephantGameTechDesignerTestTask\\Assets\\Logic\\Scripts\\MainMenuUI.cs",
+              "RelativeToolTip": "Assets\\Logic\\Scripts\\MainMenuUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:53:48.043Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
